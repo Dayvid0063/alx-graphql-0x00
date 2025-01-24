@@ -24,27 +24,6 @@ Each query retrieves:
 - `characters-page-{n}.graphql`: Character list queries
 - `characters-page-{n}-output.json`: Query results
 
-## Project Structure
-alx-graphql-0x00/
-└── character/
-    ├── README.md
-    ├── character-id-1.graphql
-    ├── character-id-1-output.json
-    ├── character-id-2.graphql
-    ├── character-id-2-output.json
-    ├── character-id-3.graphql
-    ├── character-id-3-output.json
-    ├── character-id-4.graphql
-    ├── character-id-4-output.json
-    ├── characters-page-1.graphql
-    ├── characters-page-1-output.json
-    ├── characters-page-2.graphql
-    ├── characters-page-2-output.json
-    ├── characters-page-3.graphql
-    ├── characters-page-3-output.json
-    ├── characters-page-4.graphql
-    └── characters-page-4-output.json
-
 ## Task 2: Episode Queries
 
 ## Query Structure
